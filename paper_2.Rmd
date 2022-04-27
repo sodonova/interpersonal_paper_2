@@ -1,0 +1,44 @@
+---
+title: "Excitation Transfer"
+author: Sean F. O'Donovan
+documentclass: apa7
+classoption:
+  - stu
+output:
+  pdf_document:
+    keep_tex: yes
+    template: "template.tex"
+    pandoc_args: --biblatex
+    include:
+      in_header: preamble.tex
+  html_document:
+    df_print: paged
+bibliography: comPaper2References.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+@zillmann08
+
+# Overview of Theory
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405186407.wbiece049
+
+Excitation-transfer theory tries to explain a relatively frequent phenomenon. The most basic example of it is when someone is in a high energy state and is insulted. They most likely will become more aggressive than they normally would have if the insulted subject was not in a high energy state. This is the phenomenon demonstrated in @zilEffectResidualExcitation.
+
+Going forward, this high energy state will be referred to as a state of arousal.
+
+Excitation-transfer theory was defined in the 1970s by a series of studies by Dolf Zillmann, describing a theory that both includes and expands beyond the demonstrable effect in @zilEffectResidualExcitation. Its claims vary slightly over time, especially because some of the theories of emotion it is built on, namely Schachter's two-factor theory of emotion, have issues with replication. There's an incredible amount of overlap in Hull's drive theory, Schachter's misattribution theory, and Zillmann's excitation-transfer theory [@bryExcitationTransferTheoryThreeFactor].
+
+Schachter, Hull, and Zillmann all express that emotion has two parts: an excitation or arousal, and a cognitive label. Arousal does not disperse quickly despite the ability to switch cognitive label near instantaneously. Zillmann's excitation-transfer theory suggests that when there is an initial excitation or arousal which puts someone into a higher energy state, and then there is another stimuli which excites that person (not necessarily much at all), the emotion (cognitive label) that the person applies to that stimuli is magnified by the residual excitation from the first stimuli. As @bry
+
+
+
+# Critical Assessment of Theory
+
+# Conclusion
