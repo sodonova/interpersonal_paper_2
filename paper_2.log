@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  29 APR 2022 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  29 APR 2022 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,7 +522,7 @@ Package: endfloat 2019/04/15 v2.7 LaTeX2e package puts figures and tables at end
 \@ef@fffopen=\count311
 ))
 
-Class apa7 Warning: Deprecated: see documentation for \authorsaffiliations on input line 26.
+Class apa7 Warning: Deprecated: see documentation for \authorsaffiliations on input line 27.
 
 \c@NumberOfAffiliations=\count312
 \c@NumberOfAuthors=\count313
@@ -888,24 +888,24 @@ Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 (./paper_2.aux)
 \openout1 = `paper_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -913,7 +913,7 @@ LaTeX Font Info:    ... okay on input line 82.
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
 * v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
@@ -927,7 +927,7 @@ LaTeX Font Info:    ... okay on input line 82.
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=95.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -935,8 +935,8 @@ LaTeX Font Info:    ... okay on input line 82.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -946,7 +946,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 83.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -956,9 +956,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count467
 )
-LaTeX Info: Redefining \ref on input line 82.
-LaTeX Info: Redefining \pageref on input line 82.
-LaTeX Info: Redefining \nameref on input line 82.
+LaTeX Info: Redefining \ref on input line 83.
+LaTeX Info: Redefining \pageref on input line 83.
+LaTeX Info: Redefining \nameref on input line 83.
 (./paper_2.out) (./paper_2.out)
 \@outlinefile=\write7
 \openout7 = `paper_2.out'.
@@ -968,18 +968,18 @@ File: APA7american.txt 2020/12/02 v1.02 apa7 configuration for American English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 82.
-Package microtype Info: Applying patch `item' on input line 82.
-Package microtype Info: Applying patch `toc' on input line 82.
-Package microtype Info: Applying patch `eqnum' on input line 82.
-Package microtype Info: Applying patch `footnote' on input line 82.
+LaTeX Info: Redefining \microtypecontext on input line 83.
+Package microtype Info: Applying patch `item' on input line 83.
+Package microtype Info: Applying patch `toc' on input line 83.
+Package microtype Info: Applying patch `eqnum' on input line 83.
+Package microtype Info: Applying patch `footnote' on input line 83.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 82.
+LaTeX Info: Redefining \showhyphens on input line 83.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1016,56 +1016,47 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paper_2.bbl' found.
 (./paper_2.bbl)
-Package biblatex Info: Reference section=0 on input line 82.
-Package biblatex Info: Reference segment=0 on input line 82.
+Package biblatex Info: Reference section=0 on input line 83.
+Package biblatex Info: Reference segment=0 on input line 83.
 [1{c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[2]
-Underfull \vbox (badness 3769) has occurred while \output is active []
-
-[3] [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[5] [6]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 267.
+] [2] [3] [4] [5] [6] [7]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 267.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 267.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 267.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 267.
+(Font)              <12> on input line 310.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 267.
+(Font)              <8> on input line 310.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 267.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 267.
+(Font)              <6> on input line 310.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 267.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 310.
 (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [7
+) [8
 
-] AED endfloat: Processing end Figures and Tables [8] (./paper_2.aux)
+] AED endfloat: Processing end Figures and Tables [9] (./paper_2.aux)
 Package rerunfilecheck Info: File `paper_2.out' has not changed.
 (rerunfilecheck)             Checksum: A37CE4C024E97B49C9945133FAB15DDA;831.
 Package logreq Info: Writing requests to 'paper_2.run.xml'.
@@ -1073,18 +1064,18 @@ Package logreq Info: Writing requests to 'paper_2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33254 strings out of 480236
- 641966 string characters out of 5894214
- 1400273 words of memory out of 5000000
- 50586 multiletter control sequences out of 15000+600000
- 505963 words of font info for 90 fonts, out of 8000000 for 9000
+ 33285 strings out of 480236
+ 642852 string characters out of 5894214
+ 1401483 words of memory out of 5000000
+ 50608 multiletter control sequences out of 15000+600000
+ 506145 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,11n,103p,1004b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,103p,1439b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/sean1/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on paper_2.pdf (8 pages, 94346 bytes).
+Output written on paper_2.pdf (9 pages, 98320 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
  18485 words of extra memory for PDF output out of 20736 (max. 10000000)
 
